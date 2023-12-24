@@ -5,10 +5,8 @@ A web scraper using Puppeteer and Puppeteer Extra to collect information about p
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Overview
